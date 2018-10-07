@@ -1,0 +1,8 @@
+prefix=/home/faizansid/catkin_igvc/install
+
+Name: turtle_file
+Description: Description of turtle_file
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/faizansid/catkin_igvc/install/lib 
+Requires: 
